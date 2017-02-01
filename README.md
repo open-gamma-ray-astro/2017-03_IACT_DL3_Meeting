@@ -1,8 +1,6 @@
-# Open gamma-ray astronomy data & software meeting, March 2017, MPIK Heidelberg
+# IACT DL3 meeting, March 2017, MPIK Heidelberg
 
 ## Basic information
-
-(information is still preliminary and subject to change)
 
 * When?
   * March 20 - 24, 2017
@@ -13,37 +11,30 @@
 * Contacts:
   * [Christoph Deil](https://github.com/cdeil)
   * [Catherine Boisson](https://github.com/cboisson)
+  * Please email [Christoph](https://github.com/cdeil) if you'd like to join,
+    and let me know if you can join for the full meeting or only some days.
 
 ## About
 
-This is a four day face-to-face meeting on open data and software in gamma-ray
-astronomy. The goal is to bring the community of people developing open
-high-level data formats and tools together, to exchange ideas and foster
-collaboration.
+This is a meeting on the data level 3 (DL3) data model and formats for imaging atmospheric Cherenkov (IACT) telescopes.
 
-Please see th ["Open high-level data formats and software for gamma-ray
-astronomy" (2016)](http://adsabs.harvard.edu/abs/2016arXiv161001884D) paper for
-an introduction to this project, join the
-[open-gamma-ray-astro](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro)
-mailing list and have a look at the
-[gamma-astro-data-formats](http://gamma-astro-data-formats.readthedocs.io/)
-specifications, as well as the materials from previous similar meetings:
-["Python for gamma-ray astronomy" (November
-2015)](http://gammapy.github.io/PyGamma15/) and [IACT DL3 data format meeting
-(April 2016)](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting).
+* The topic is data level 3 (DL3), i.e. the interface between pipeline and science tools. See ["Open high-level data formats and software for gamma-ray
+astronomy" (2016)](http://adsabs.harvard.edu/abs/2016arXiv161001884D) for an introduction / overview / status / next steps on DL3.
+* The main focus is on [CTA](https://www.cta-observatory.org/)! Participation by existing IACTS (e.g. H.E.S.S., MAGIC, VERITAS, FACT), or similar telescopes (e.g. HAWC, neutrinos) is encouraged, their experience especially with instrument response functions (IRFs) is an important input for the discussions.
+* This is a follow-up on the workshop from last year (see [2016-04_IACT_DL3_Meeting](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting)).
+* The meeting will be announced on the [open-gamma-ray-astro](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro) mailing list and cta-data, and forwarding to analysis mailing lists of existing IACTs is welcome.
 
-Some preliminary information about this meeting:
+Goals of the meeting are:
+* Make progress on the DL3 specifications at [gamma-astro-data-formats](http://gamma-astro-data-formats.readthedocs.io/).
+* We have been stuck a bit since last year with major questions concerning
+  the data model and formats, e.g. on how to organise the data and link the pieces. Other major points are listed in [2016arXiv161001884D](http://adsabs.harvard.edu/abs/2016arXiv161001884D).
+  We would like to make some real progress on those key DL3 issues, and try
+  to define something that can support CTA well and can be prototyped for the coming year.
 
-* This is a workshop for experts, not a school for end users.
-* Goals and formats:
-  * Discuss, decide, and implement as many open data format issues as possible (see list [here](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues)), by working in small groups.
-  * Some time will be spent on status reports (e.g. from HESS, MAGIC, CTA and maybe science tools) or to give people the room to pitch new ideas (e.g. for IRFs or HEALPIX or ... formats).
-* Topics: 
-  * IACT (CTA, HESS, MAGIC, FACT, ...) DL3 data formats will  be the biggest topic.
-  * Extensions to other equivalent data (e.g. from slewing instrumetns like HAWC or neutrino or cosmic ray telescopes) are welcome.
-  * Higher-level data formats (e.g. lightcurves, HEALPIX images) will also be a topic
-  * Probably software developement will also be a topic, especially for possibilities for more collaboration and interoperability.
-* Further suggestions welcome!
+The following things are not topics at this workshop:
+* CTA pipeline or science tool software development. DL3 is the interface between these softwares, and participation and feedback by people working on those codes is highly encouraged. But the focus here is on the DL3 specs, work on the codes to implement or prototype can then continue after the meeting.
+* Lower-level data, e.g. air shower images.
+* Higher-level data, e.g. sky images or spectra.
 
 ## Participants
 
@@ -51,5 +42,3 @@ Registered participants:
 
 * Christoph Deil, Heidelberg
 * Catherine Boisson, Meudon
-
-Please email [Christoph](https://github.com/cdeil) if you'd like to join.
