@@ -12,7 +12,7 @@
 * Remote participation: probably not, please come to the meeting.
 * We will do a call the week before to prepare the meeting.
   * **"IACT DL3" call on Tuesday, March 14 at 11 am on CTA eZuce.**
-  * Connnection info will be posted soon
+  * Connection info (no password, guests allowed) is [here](planning_call_connection_info.txt).
 
 ## About
 
