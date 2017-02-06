@@ -42,15 +42,21 @@ The following things are not topics at this workshop:
 
 ## Agenda
 
-We will start with presentations and discussions on Monday and Tuesday, and then
-have time for more detailed discussions and to work on documents together in the
-second half of the week. Please consider presenting something and let us know (email Christoph & Catherine).
+We will start with presentations and discussions on Monday and Tuesday.
+Please consider presenting something and let us know (email Christoph & Catherine).
 
 * TBC: Jim Hinton or Alison Mitchell: overview of IRF requirements for CTA
-* ... if you're working on or with DL3 
-* Maybe: how science tools (Gammapy, Gammalib) consume DL3, with a focus on
-  resulting IRF precision (e.g. from interpolation errors)
-* Christoph Deil: overview / status / lessons learnt of DL3 from H.E.S.S.
+* TBC: overview of CTA observation modes
+* TBC: overview on CTA IRF and DL3 production
+* TBC: report on DL3 from the science tool side (focus on aspects like IRF interpolation and precision and other things that are relevant aspects to define the DL3 data model).
+* TBC: overview / status / lessons learnt of DL3 from H.E.S.S.
+
+Wanted:
+
+* TBC: My/our suggestion for DL3
+* TBC: My/our suggestion for DL3
+
+Then we'll discuss and write it down, i.e. produce one or several documents by the end of the week.
 
 ## Participants
 
@@ -61,5 +67,7 @@ in Heidelberg.
 
 Registered participants:
 
-* Christoph Deil, Heidelberg
-* Catherine Boisson, Meudon
+* Christoph Deil
+* Catherine Boisson
+* Tarek Hassan
+* Jose-Luis Contreras (not the full week)
