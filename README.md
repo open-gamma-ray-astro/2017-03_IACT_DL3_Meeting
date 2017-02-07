@@ -7,6 +7,8 @@
   * End: Friday, March 24 at noon
 * Where? 
   * [MPIK Heidelberg](https://www.mpi-hd.mpg.de/mpi/en/start/)
+  *  Conference room  in the library building #12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
+
 * Contacts:
   * [Christoph Deil](https://github.com/cdeil) and [Catherine Boisson](https://github.com/cboisson)
 * Remote participation: probably not, please come to the meeting.
