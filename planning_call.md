@@ -1,4 +1,8 @@
-# Planning call March 13
+# Planning call March 14
+
+* Date: March 14
+
+## Agenda
 
 * Christoph Deil and all - Plan for face-to-face meeting next week
   * We will start Monday at 14:30, have eZuce remote connection
@@ -8,3 +12,9 @@
 * Tarek Hassan - a proposal how to support point-like IRFs (https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/79)
   * You can see the proposed changes in HTML version here: http://www.gae.ucm.es/~thassan/gamma/irfs/index.html
   * There is also an on-going discussion regarding `HDUCLASn` hierarchy and ways to handle multiple types of IRFs, from: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/71
+
+## Minutes
+
+* Tarek & Christoph plan to start a document on "CTA DL3 proposal" trying to outline a possible scheme that provides a full solution. Among other things it would reference Gernot's "CTA IRFs" document (work in progress, focused on current IRF production).
+* To have a fruitful discussion, we'll try to prepare slides for Monday next week outlining the proposal and putting questions we have.
+* ...
