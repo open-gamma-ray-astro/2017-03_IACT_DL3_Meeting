@@ -1,7 +1,7 @@
 # Planning call March 14, 2017
 
 * Date: March 14, 2017
-* Participants: Tarek Hassan, Jose-Luis Contreras, Saverio Lombardi, Gernot Maier, Christoph Deil
+* Participants: Tarek Hassan, Jose-Luis Contreras, Saverio Lombardi, Gernot Maier, Christoph Deil, Simon Rosen
 
 ## Agenda
 
