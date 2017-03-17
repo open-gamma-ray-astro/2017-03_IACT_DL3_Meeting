@@ -44,32 +44,29 @@ The following things are not topics at this workshop:
 
 ## Agenda
 
-We will start with presentations and discussions on Monday and Tuesday.
-Please consider presenting something and let us know (email Christoph & Catherine).
+### Monday afternoone
 
-* TBC: Jim Hinton or Alison Mitchell: overview of IRF requirements for CTA
-* TBC: overview of CTA observation modes
-* TBC: overview on CTA IRF and DL3 production
-* TBC: report on DL3 from the science tool side (focus on aspects like IRF interpolation and precision and other things that are relevant aspects to define the DL3 data model).
-* TBC: overview / status / lessons learnt of DL3 from H.E.S.S.
+We will start with presentations on Monday 2:30 pm.
+A telcon connection will be provided (CTA eZuce, "IACT DL3", no password)
 
-Wanted:
+* Tarek Hassan: DL3 FITS in Magic (5 min) (to be confirmed)
+* Christoph Deil: DL3 FITS in HESS (5 min)
+* Jim Hinton or Alison Mitchell: overview of proposed CTA observation modes and IRF requirements
+* TBC: status & short-term plans on CTA IRF and DL3 production (ROOT & FITS)?
+* Tarek Hassan: proposal for point-like IRF format in DL3
+* TBC: status DL3 from the science tool side (Gammapy & ctools)?
+* Tarek & Christoph: thoughts on CTA DL3
+* Open discussions on DL3 (with focus what to do this week and in the coming months for CTA)
 
-* TBC: My/our suggestion for DL3
-* TBC: My/our suggestion for DL3
+###
 
-Then we'll discuss and write it down, i.e. produce one or several documents by the end of the week.
+The rest of the week is reserved for discussions & document or spec writing.
 
 ## Participants
 
-Please email [Christoph](https://github.com/cdeil) if you'd like to join, and
-let me know if you can join for the full meeting or only some days. Also let me
-know if you'd like to stay in the MPIK guest house or need help finding a hotel
-in Heidelberg.
-
-Registered participants:
-
-* Christoph Deil
 * Catherine Boisson
 * Tarek Hassan
-* Jose-Luis Contreras (not the full week)
+* Jose-Luis Contreras
+* Bruno Khelifi
+* Christoph Deil
+* (some others for the presentations / discussion Monday afternoon)
