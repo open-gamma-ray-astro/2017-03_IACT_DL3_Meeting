@@ -44,15 +44,14 @@ The following things are not topics at this workshop:
 
 ## Agenda
 
-### Monday afternoone
+### Monday afternoon
 
 We will start with presentations on Monday 2:30 pm.
 A telcon connection will be provided (CTA eZuce, "IACT DL3", no password)
 
-* Tarek Hassan: DL3 FITS in Magic (5 min) (to be confirmed)
+* Tarek Hassan: DL3 FITS in Magic (5 min)
 * Christoph Deil: DL3 FITS in HESS (5 min)
 * Jim Hinton or Alison Mitchell: overview of proposed CTA observation modes and IRF requirements
-* TBC: status & short-term plans on CTA IRF and DL3 production (ROOT & FITS)?
 * Tarek Hassan: proposal for point-like IRF format in DL3
 * TBC: status DL3 from the science tool side (Gammapy & ctools)?
 * Tarek & Christoph: thoughts on CTA DL3
