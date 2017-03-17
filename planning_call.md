@@ -18,4 +18,6 @@
 
 * Tarek & Christoph plan to start a document on "CTA DL3 proposal" trying to outline a possible scheme that provides a full solution. Among other things it would reference Gernot's "CTA IRFs" document (work in progress, focused on current IRF production).
 * To have a fruitful discussion, we'll try to prepare slides for Monday next week outlining the proposal and putting questions we have.
-* ...
+* Another focus for next week will be to add missing things to the spec to support CTA. The main addition there is the point-like IRFs, so we'll re-discuss Tarek's PR and finish that pull request up next week.
+* f2f meeting next week: Monday 2:30 pm. We'll do en eZuce connection.
+
