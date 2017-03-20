@@ -43,7 +43,7 @@ Goals of the meeting are:
 * A telcon connection will be provided (CTA eZuce, "IACT DL3", no password, see [monday_connection_info.txt](monday_connection_info.txt))
 
 * Christoph Deil: DL3 Introduction
-  * TODO: slides
+  * Slides: [2017-03-20_DL3_Intro.pdf](2017-03-20_DL3_Intro.pdf)
   * Look at https://arxiv.org/pdf/1610.01884.pdf
   * Look at http://gamma-astro-data-formats.readthedocs.io/ and https://github.com/open-gamma-ray-astro/gamma-astro-data-formats
 * Christoph Deil: DL3 FITS in HESS
