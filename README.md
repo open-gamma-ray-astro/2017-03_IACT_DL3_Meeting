@@ -39,14 +39,21 @@ Goals of the meeting are:
 
 ### Monday afternoon
 
-We will start with presentations on Monday 2:30 pm.
-A telcon connection will be provided (CTA eZuce, "IACT DL3", no password)
+* We will start with presentations on Monday 2:30 pm.
+* A telcon connection will be provided (CTA eZuce, "IACT DL3", no password, see [monday_connection_info.txt](monday_connection_info.txt))
 
-* Christoph Deil: Introduction (10 min)
-* Christoph Deil: DL3 FITS in HESS (5 min)
-* Tarek Hassan: DL3 FITS in Magic (5 min)
+* Christoph Deil: DL3 Introduction
+  * TODO: slides
+  * Look at https://arxiv.org/pdf/1610.01884.pdf
+  * Look at http://gamma-astro-data-formats.readthedocs.io/ and https://github.com/open-gamma-ray-astro/gamma-astro-data-formats
+* Christoph Deil: DL3 FITS in HESS
+* Tarek Hassan: DL3 FITS in Magic
 * Jim Hinton or Alison Mitchell: overview of proposed CTA observation modes and IRF requirements
 * Tarek Hassan: proposal for point-like IRF format in DL3
+  * TODO: slides
+  * Early discussion: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/71
+  * Pull request: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/79
+  * Preview of new version of spec: http://www.gae.ucm.es/~thassan/gamma/irfs/index.html
 * TBC: status DL3 from the science tool side (Gammapy & ctools)?
 * Tarek & Christoph: thoughts on CTA DL3
 * Open discussions on DL3 (with focus what to do this week and in the coming months for CTA)
