@@ -53,6 +53,7 @@ Goals of the meeting are:
 * Tarek Hassan: DL3 FITS in Magic
   * Slides: 
 * Jim Hinton or Alison Mitchell: overview of proposed CTA observation modes and IRF requirements
+  * Slides: [CTA_IRF_requirements.pdf](CTA_IRF_requirements.pdf)
 * Tarek Hassan: proposal for point-like IRF format in DL3
   * TODO: slides
   * Early discussion: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/71
