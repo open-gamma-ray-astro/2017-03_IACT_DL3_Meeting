@@ -48,14 +48,14 @@ Goals of the meeting are:
   * https://arxiv.org/pdf/1610.01884.pdf
   * http://gamma-astro-data-formats.readthedocs.io/
   * https://github.com/open-gamma-ray-astro/gamma-astro-data-formats
+* Jim Hinton and Alison Mitchell: CTA observation modes and IRF requirements overview
+  * Slides: [CTA_IRF_requirements.pdf](CTA_IRF_requirements.pdf)
 * Christoph Deil: DL3 FITS in HESS
   * Slides: [2017-03-20_DL3_HESS.pdf](2017-03-20_DL3_HESS.pdf)
 * Tarek Hassan: DL3 FITS in Magic
   * Slides: [MAGIC_DL3_report_thassan.pdf](MAGIC_DL3_report_thassan.pdf)
-* Jim Hinton or Alison Mitchell: overview of proposed CTA observation modes and IRF requirements
-  * Slides: [CTA_IRF_requirements.pdf](CTA_IRF_requirements.pdf)
 * Tarek Hassan: proposal for point-like IRF format in DL3
-  * [PointLikeIRFs_proposal.pdf](PointLikeIRFs_proposal.pdf)
+  * Slides: [PointLikeIRFs_proposal.pdf](PointLikeIRFs_proposal.pdf)
   * Early discussion: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/71
   * Pull request: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/79
   * Preview of new version of spec: http://www.gae.ucm.es/~thassan/gamma/irfs/index.html
@@ -72,4 +72,3 @@ The rest of the week is reserved for discussions & document or spec writing.
 * Jose-Luis Contreras
 * Bruno Khelifi
 * Christoph Deil
-* (some others for the presentations / discussion Monday afternoon)
